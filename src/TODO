@@ -1,0 +1,14 @@
+[x] Create a way to invite employees to a company's task area
+    (and assign them an employee permission)
+[ ] Finalize the 'register.php' link (add in an 'email' verify, just as an added precaution.)
+[ ] Create a way to remove employees
+[ ] Create a logout button
+[ ] Task Management
+ [ ] Create Task
+ [ ] Edit Task
+ [ ] Delete Task
+ [ ] Flag as 'completed'
+[ ] Make things prettier
+[ ] [company].[website] per database?
+
+
